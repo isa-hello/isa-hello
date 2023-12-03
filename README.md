@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m **@isa-hello**
   
-- 🔭 I’m currently working on **Open Energy Dashboard**
+- 🔭 I’m currently working on the **Open Energy Dashboard**
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 💞️ I’m looking to collaborate on **Hackathons**
+- 💞️ I’m looking to collaborate at **Hackathons**
 
 - 📫 How to reach me **igapalompo@gmail.com**
 
@@ -63,4 +63,3 @@
   </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isa-hello&" alt="isa-hello" />
   <img src="https://github-readme-stats.vercel.app/api?username=isa-hello&show_icons=true&locale=en" alt="isa-hello" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isa-hello&show_icons=true&locale=en&layout=compact" alt="isa-hello" />
