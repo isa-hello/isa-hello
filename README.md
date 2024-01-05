@@ -1,4 +1,4 @@
-<h2 align="center">An Aspiring Software Engineer from San Francisco</h3>
+<h2 align="center">Aspiring Software Engineer from San Francisco</h3>
 
 - 👋 Hi, I’m **@isa-hello**
   
@@ -54,9 +54,3 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   </a>
-
-  </br>
-  </br>
-  </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isa-hello&" alt="isa-hello" />
-  <img src="https://github-readme-stats.vercel.app/api?username=isa-hello&show_icons=true&locale=en" alt="isa-hello" />
