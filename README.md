@@ -1,8 +1,7 @@
 <h2 align="center">Aspiring Software Engineer from San Francisco</h3>
 
 - 👋 Hi, I’m **@isa-hello**
-  
-- 🔭 I’m currently working on the **Open Energy Dashboard**
+- 🔭 I’m currently working on the **Open Source**
 
 - 🌱 I’m currently learning **PyTorch**
 
